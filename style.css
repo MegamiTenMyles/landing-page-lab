@@ -10,6 +10,7 @@
   margin: 0px;
   text-align: center;
   background-color: rgb(233, 233, 233)
+  margin-top:0px;
 }
 .list-title{
   background-color: cadetblue;
@@ -37,4 +38,12 @@
 
 .div-background2 {
   
+}
+
+img {
+  display: block;
+  position: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
