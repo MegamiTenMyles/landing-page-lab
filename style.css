@@ -2,18 +2,21 @@
     font-size: 60px
 }
 .div-a {
-  width: 1137px;
-  height: 50px;
+  width: 1920px;
+  height: 300px;
+  top: 0px;
   border: 0px;
   padding: 0px;
   margin: 0px;
   text-align: center;
+  background-color: rgb(233, 233, 233)
 }
 .list-title{
   background-color: cadetblue;
   width: 364px;
   font-size: 40px;
   font-weight: bold; 
+  margin-top: 0px;
 }
 
 .list{
@@ -27,6 +30,11 @@
 }
 
 .div-background {
-  background-color: #b2b2b2;
-  background-color: rgba(0, 0, 0, .3);
+  background-color: black;
+  width: auto;
+  height: auto;
+}
+
+.div-background2 {
+  
 }
