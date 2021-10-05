@@ -8,3 +8,16 @@
   margin: 220px;
   text-align: center;
 }
+.list-title{
+  background-color: cadetblue;
+  font-size: 40px;
+  font-weight: bold; 
+}
+
+.list{
+  background-color: cadetblue;
+  font-size: 36px;
+  position: relative;
+  bottom: 40px;
+    
+}
