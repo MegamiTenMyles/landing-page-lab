@@ -11,14 +11,22 @@
 }
 .list-title{
   background-color: cadetblue;
+  width: 364px;
   font-size: 40px;
   font-weight: bold; 
 }
 
 .list{
   background-color: cadetblue;
+  width: 324px;
   font-size: 36px;
   position: relative;
   bottom: 40px;
-    git
+  height:800px;
+  
+}
+
+.div-background {
+  background-color: #b2b2b2;
+  background-color: rgba(0, 0, 0, .3);
 }
