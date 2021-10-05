@@ -1,1 +1,10 @@
-
+.titletext {
+    font-size: 60px
+}
+.div-a {
+  width: 223px;
+  border: 0px;
+  padding: 0px;
+  margin: 220px;
+  text-align: center;
+}
